@@ -21,3 +21,6 @@ nltk.masi_distance(label1, label2)
 ```
 > Distance metric that takes into account partial agreement when multiple labels are assigned.
 [https://tedboy.github.io/nlps/generated/generated/nltk.masi_distance.html](https://tedboy.github.io/nlps/generated/generated/nltk.masi_distance.html)
+
+## sample scripts
+used for reliability calculation in the Review of Computational Public Opinion Research
