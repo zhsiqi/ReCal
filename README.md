@@ -4,11 +4,11 @@ calculate reliability for multiple Coders and multiple choice questions
 ## for multiple coders
 Krippendorff's Alpha
 - Stata<br>
-  package krippalpha from [http://fmwww.bc.edu/RePEc/bocode/k](http://fmwww.bc.edu/RePEc/bocode/k)   <br>
+  package ```krippalpha``` from [http://fmwww.bc.edu/RePEc/bocode/k](http://fmwww.bc.edu/RePEc/bocode/k)   <br>
   Authors: Alexander Staudt, Mona Krewel   <br>
 
 - SPSS<br>
-  macro Kalpha from [https://www.afhayes.com/public/kalpha.zip](https://www.afhayes.com/public/kalpha.zip)<br>
+  macro ```Kalpha``` from [https://www.afhayes.com/public/kalpha.zip](https://www.afhayes.com/public/kalpha.zip)<br>
   Author: Andrew Hayes   <br>
 
 - Python<br>
