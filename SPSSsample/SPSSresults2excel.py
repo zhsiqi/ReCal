@@ -1,4 +1,5 @@
-# extract many reliability numbers from results and export them to excel
+# extract many reliability numbers from results and export them to an excel file
+# first, export reliability calculation results in SPSS to a txt file 
 
 import pandas as pd
 
